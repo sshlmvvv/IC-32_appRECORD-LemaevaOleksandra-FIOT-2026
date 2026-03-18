@@ -5,8 +5,8 @@
 **Мета:** Коротко описати мету.
 
 **Місце розташування:**
-- GitHub: (встав посилання)
-- Live demo: (встав посилання)
+- GitHub: [Мій репозиторій](https://github.com/sshlmvvv/Website_flowershop_is-32_Lemaeva)
+- Live demo: [Відкрити сайт](https://sshlmvvv.github.io/Website_flowershop_is-32_Lemaeva/index.html)
 
 ---
 
