@@ -1,5 +1,5 @@
 export function setupScrollSpy(root: HTMLElement, onActiveId: (id: string) => void): () => void {
-  const headings = Array.from(root.querySelectorAll('h2, h3, h4, h5, h6')) as HTMLElement[];
+  const headings = Array.from(root.querySelectorAll('h1, h2, h3, h4, h5, h6')) as HTMLElement[];
   const ids = headings.map((h) => h.id).filter(Boolean);
 
   const io = new IntersectionObserver(
